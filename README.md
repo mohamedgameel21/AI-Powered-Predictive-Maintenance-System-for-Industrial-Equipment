@@ -23,7 +23,31 @@ It consists of a **Web Application (`app.py`)** powered by **trained Machine Lea
 
 ## 📁 Repository Structure
 ---
+Predictive-Maintenance/
 
+│
+├── models/
+│   ├── rul_pipeline.pkl
+│   ├── repair_cost_pipeline.pkl
+│   ├── failure_type_pipeline.pkl
+│   └── failure_24h_pipeline.pkl
+│
+├── notebooks/
+│   ├── rul_hours.ipynb
+│   ├── failure_within_24.ipynb
+│   ├── failure_type.ipynb
+│   └── estimated_repair_cost.ipynb
+│
+├── screenshots/
+│   ├── app_1.png
+│   └── app_2.png
+│
+├── app.py
+├── requirements.txt
+├── predictive_maintenance_v3.csv
+├── Industrial_Predictive_Maintenance_Presentation.pptx
+├── .gitattributes
+└── README.md
 ## 🚀 Getting Started
 
 ### 1. Prerequisites
