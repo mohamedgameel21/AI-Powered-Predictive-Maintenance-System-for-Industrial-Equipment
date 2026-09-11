@@ -26,7 +26,7 @@ It consists of an **Interactive Web Application (`app.py`)** powered by **traine
 
 ## 📁 Repository Structure
 
-
+```text
 predictive_maintenance/
 │
 ├── models/
@@ -47,7 +47,7 @@ predictive_maintenance/
 ├── Industrial_Predictive_Maintenance_Presentation.pptx
 ├── .gitattributes
 └── README.md
-
+```
 
 ## 🚀 Getting Started
 1. Prerequisites & Installation
