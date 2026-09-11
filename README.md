@@ -23,6 +23,8 @@ It consists of a **Web Application (`app.py`)** powered by **trained Machine Lea
 
 ## 📁 Repository Structure
 ---
+
+
 Predictive-Maintenance/
 
 │
@@ -48,6 +50,9 @@ Predictive-Maintenance/
 ├── Industrial_Predictive_Maintenance_Presentation.pptx
 ├── .gitattributes
 └── README.md
+
+
+
 ## 🚀 Getting Started
 
 ### 1. Prerequisites
